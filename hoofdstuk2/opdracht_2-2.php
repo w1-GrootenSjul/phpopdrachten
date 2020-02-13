@@ -50,7 +50,7 @@ $text15 = "toch";
         <h3>Taak 2</h3>
         <?php echo $text1 . $text11 . " " . $text5 . " " . $text15 . " " . $text2 . $text10 . $text12 . $text7 . $text10 . " " . $text8 . "" . $text15 . $text9 . $text12 . $text6 . " " . $text5 . " " . $text3 . " " . $text13 . $text10 ?>
         <h3>Taak 3</h3>
-        <p><?php echo $text1 . $text11 . $text12 . $text8 . " " . $text15 . " dat " . $text5 . " zo'n makkelijke taal " . $text13 . $text10 . $text12 . $text7 . $text10 . " " . $text14 . $text9?></p>
+        <p><?php echo $text1 . $text11 . $text12 . $text8 . " " . $text15 . " dat " . $text5 . " zo'n makkelijke taal " . $text13 . $text10 . $text12 . $text7 . $text10 . " " . $text14 . $text9 ?></p>
     </main>
 </div>
 </body>
