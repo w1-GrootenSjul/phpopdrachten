@@ -1,12 +1,13 @@
 <?php
 /**
  * Username: Sjul Grooten
- * Date: 11-2-2020
- * Time 11:59 AM
- * File: index.php
+ * Date: 13-2-2020
+ * Time 09:47 AM
+ * File: opdracht_2-1.php
  */
 ?>
 
+<!DOCTYPE html>
 <html>
 <head>
     <title>
@@ -15,7 +16,7 @@
     <meta name="description" content="...">
     <meta name="keywords" content="...">
     <meta charset="utf-8">
-    <link href="css/style.css" type="text/css" rel="stylesheet">
+    <link href="../css/style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <header>
