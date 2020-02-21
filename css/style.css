@@ -12,7 +12,7 @@ h2
 }
 #wrapper
 {
-    width: 30vw;
+    width: 65vw;
     float: left;
 }
 header
@@ -40,5 +40,11 @@ main
 {
     padding-top: 50px;
     padding-left: 20px;
-    width: 65vw;
+    width: 100vw;
+}
+footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
 }
