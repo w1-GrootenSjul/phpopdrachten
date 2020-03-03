@@ -52,6 +52,9 @@ $text15 = "toch";
         <h3>Taak 3</h3>
         <p><?php echo $text1 . $text11 . $text12 . $text8 . " " . $text15 . " dat " . $text5 . " zo'n makkelijke taal " . $text13 . $text10 . $text12 . $text7 . $text10 . " " . $text14 . $text9 ?></p>
     </main>
+    <?php
+    include("../includes/footer.php");
+    ?>
 </div>
 </body>
 </html>

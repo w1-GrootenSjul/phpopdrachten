@@ -1,9 +1,9 @@
 <?php
 /**
  * Username: Sjul Grooten
- * Date: 13-2-2020
- * Time 09:47 AM
- * File: opdracht_2-1.php
+ * Date: 3-3-2020
+ * Time 12:08 PM
+ * File: opdracht_3-3.php
  */
 ?>
 
@@ -19,9 +19,9 @@
     <link href="../css/style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-<header>
-    <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
-</header>
+<?php
+include("../includes/header.php");
+?>
 <div>
     <aside>
         <h2>Menu</h2>
@@ -29,13 +29,10 @@
     </aside>
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
-        <p>
-            Hello world!
-        </p>
     </main>
-    <?php
-    include("../includes/footer.php");
-    ?>
 </div>
+<?php
+include("../includes/footer.php");
+?>
 </body>
 </html>

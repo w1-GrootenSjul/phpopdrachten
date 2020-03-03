@@ -51,6 +51,9 @@
             echo($verhaal2);
         ?>
     </main>
+    <?php
+    include("../includes/footer.php");
+    ?>
 </div>
 </body>
 </html>
