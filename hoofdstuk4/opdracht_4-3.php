@@ -29,6 +29,15 @@ include("../includes/header.php");
     </aside>
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
+        <?php
+        include("../scripts/script_4-3.php");
+        echo("<p>" . $task2 . $counter . "</p>");
+        echo("<p>" . $task2 . $c . "</p>");
+        echo($task4);
+        echo($task5);
+        echo($task6);
+        echo($task7);
+        ?>
     </main>
 </div>
 <?php

@@ -38,3 +38,9 @@ else
     echo("&copy; " . $year . " " . $name);
     echo("<footer>");
 ?>
+<style>
+    footer
+    {
+        background-color: gainsboro;
+    }
+</style>

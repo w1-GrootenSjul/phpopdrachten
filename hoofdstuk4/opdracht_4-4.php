@@ -29,6 +29,11 @@ include("../includes/header.php");
     </aside>
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
+        <h3>Weekkalender komende week</h3>
+        <?php
+        include("../scripts/script_4-4.php");
+
+        ?>
     </main>
 </div>
 <?php

@@ -3,7 +3,7 @@
  * Username: Sjul Grooten
  * Date: 3-3-2020
  * Time 12:08 PM
- * File: opdracht_3-3.php
+ * File: opdracht_4-2.php
  */
 ?>
 
@@ -30,7 +30,8 @@ include("../includes/header.php");
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
         <?php
-        include("../includes/script.php");
+        include("../scripts/script_4-2.php");
+        echo("<p>Voor het vak <span class='dik'>" . $coursName . "</span> heb je <span class='dik'>" . $teacherName . "</span> als docent.</p>")
         ?>
     </main>
 </div>

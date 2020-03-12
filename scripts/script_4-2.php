@@ -50,7 +50,6 @@ switch($coursName)
     default:
         echo("Dit is geen bestaand vak");
 }
-echo("<p>Voor het vak <span class='dik'>" . $coursName . "</span> heb je <span class='dik'>" . $teacherName . "</span> als docent.</p>")
 ?>
 <style>
     .dik
