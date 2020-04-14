@@ -60,7 +60,7 @@ include("../includes/header.php");
 
                 echo("<table><tr><td>");
                 echo("<fieldset style='width: 200px;'>");
-                echo("<legenda>Openingstijden</legenda>");
+                echo("<legend>Openingstijden</legend>");
                 echo("<p>Do: 22:00</p>");
                 echo("<p>Vr: allday</p>");
                 echo("<p>Za: All day</p>");
@@ -69,7 +69,7 @@ include("../includes/header.php");
                 echo("</td><td>");
 
                 echo("<fieldset style='width: 200px;height: 170px;'>");
-                echo("<legenda>Adresgegevens</legenda>");
+                echo("<legend>Adresgegevens</legend>");
                 echo("<p>Am Wriezener Bahnhof</p>");
                 echo("<p>10243 Berlin</p>");
                 echo("<p>Duitsland</p>");
