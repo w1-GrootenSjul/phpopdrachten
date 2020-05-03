@@ -8,6 +8,22 @@
 ?>
 
 <?php
+    session_start();
+    if (isset($_SESSION['username'])) {
+        $bezoeker = $_SESSION['username']. "&nbsp;<a
+    href='/phpopdrachten/hoofdstuk6/loguit.php'>Loguit</a>";
+    }
+    else {
+        $bezoeker = "onbekende bezoeker". "&nbsp;<a
+    href='/phpopdrachten/hoofdstuk6/opdracht_6-1.php'>Login</a>";
+    }
+
+    //print vervolgens ook de $bezoeker zodat je de volgende visuele weergave in de pagina ziet
+?>
+
+
+
+<?php
 date_default_timezone_set("Europe/Amsterdam");
 $uur = date("H");
 
@@ -34,7 +50,7 @@ else
 
     // De footer via echo getoond aan de gebruiker
     echo("<footer>");
-    echo($greeting . " bezoeker");
+    echo($greeting . " " . $bezoeker);
     echo("&copy; " . $year . " " . $name);
     echo("<footer>");
 ?>
