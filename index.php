@@ -87,16 +87,12 @@
                                 <a href="hoofdstuk6/opdracht_6-1.php">Opdracht 6.1</a>
                             </li>
                             <li>
-                                <a href="hoofdstuk5/opdracht_5-4.php">Opdracht 6.2</a>
+                                <a href="hoofdstuk6/opdracht_6-2.php">Opdracht 6.2</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <ul>
-                            <li>
-                                <a href="eindopdracht/login.php">Eindopdracht periode 3</a>
-                            </li>
-                        </ul>
+                        <a href="eindopdracht/login.php">Eindopdracht periode 3</a>
                     </li>
                 </ul>
             </aside>
