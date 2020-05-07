@@ -91,6 +91,13 @@
                             </li>
                         </ul>
                     </li>
+                    <li>Hoofdstuk 7
+                        <ul>
+                            <li>
+                                <a href="hoofdstuk7/opdracht_7-1.php">Opdracht 7.1</a>
+                            </li>
+                        </ul>
+                    </li>
                     <li>
                         <a href="eindopdracht/login.php">Eindopdracht periode 3</a>
                     </li>

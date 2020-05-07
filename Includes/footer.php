@@ -9,7 +9,7 @@
 
 <?php
     if(!isset($_SESSION)){
-        start_session();
+        //start_session();
     }
 
     if (isset($_SESSION['username'])) {
