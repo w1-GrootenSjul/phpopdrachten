@@ -96,6 +96,18 @@
                             <li>
                                 <a href="hoofdstuk7/opdracht_7-1.php">Opdracht 7.1</a>
                             </li>
+                            <li>
+                                <a href="hoofdstuk7/opdracht_7-2.php">Opdracht 7.2</a>
+                            </li>
+                            <li>
+                                <a href="hoofdstuk7/opdracht_7-3.php">Opdracht 7.3</a>
+                            </li>
+                            <li>
+                                <a href="hoofdstuk7/opdracht_7-4.php">Opdracht 7.4</a>
+                            </li>
+                            <li>
+                                <a href="hoofdstuk7/opdracht_7-5.php">Opdracht 7.5</a>
+                            </li>
                         </ul>
                     </li>
                     <li>
