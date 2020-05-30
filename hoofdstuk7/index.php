@@ -74,6 +74,7 @@ include("../includes/header.php");
         }
         echo("</table>")
         ?>
+        <a href="opdracht_7-4.php">Voeg een grap toe</a>
     </main>
 </div>
 <?php

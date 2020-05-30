@@ -105,9 +105,6 @@
                             <li>
                                 <a href="hoofdstuk7/opdracht_7-4.php">Opdracht 7.4</a>
                             </li>
-                            <li>
-                                <a href="hoofdstuk7/opdracht_7-5.php">Opdracht 7.5</a>
-                            </li>
                         </ul>
                     </li>
                     <li>
